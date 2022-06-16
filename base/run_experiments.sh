@@ -11,7 +11,9 @@
 #//           ./run_experiments --matrix <ruta_al_archivo_de_datos> --repeticiones <nro>
 #//
 #//   Description:
-#//           -->Completar la descripción
+#//           -->script que ejecuta de manera automática el programa con la implementación
+#//		de los métodos de multiplicación 30 veces y va guardando los resultados
+#//		en el archivo resultados.txt
 #//
 #/////////////////////////////////////////////////////////////////////////////////
 
